@@ -8,4 +8,5 @@ exports.postAceInit = (hookName, args, cb) => {
         }
         </style>
         `);
+  return cb();
 };
