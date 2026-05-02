@@ -1,5 +1,5 @@
-
 {
+  "disables": ["@feature:error-gritter"],
   "parts":[
     {
       "name": "ep_disable_error_messages",
